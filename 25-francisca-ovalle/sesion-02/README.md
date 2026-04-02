@@ -1,4 +1,4 @@
-# sesión 02 - 20/03
+# Sesión 02 - 20/03 Apuntes
 ---
 ## Arquitectura del pesamiento
 **Máquina diferencial:** *Charles Babbage* diseñó una maquina para **sistematizar el cálculo** y la tabulación de funciones polinómicas, tareas que hasta ese entonces solamente eran manuales. Era a gran escala intregrada por engranajes que calculaban ecuaciones e imprimian en formato de tablas matematicas.  
