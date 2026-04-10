@@ -338,4 +338,13 @@ Checkbox:
 • 180° / PI: A las 9 en punto (izquierda).
 • 270° / (PI + HALF_PI): A las 12 en punto (arriba).
 
+# CLASE 10/04: MOVIMIENTO
 
+**Posición del mouse:**
+*MouseX;mouseY;: Variabkles de sistema numérico que determina la posición del mouse 
+*Sintaxsis: (mouseX, mouseY);
+
+**Crea tus propias variable:**
+* Para declarar tus propias variables puedes ocupar:
+* * Let: para variables dinámicas
+  * Const: Para variables constantes
