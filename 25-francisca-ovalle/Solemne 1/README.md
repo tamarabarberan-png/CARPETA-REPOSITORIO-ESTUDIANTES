@@ -14,10 +14,13 @@ La verdad es que el proceso del dibujo en *físico fue más complicado*; como el
 Cuando lo pasé a **p5.js**, no se me complicó mucho, la verdad; lo hice en todo momento con el dibujo de los ángulos, mi dibujo en físico y la calculadora para sacar los píxeles. La verdad es que cuando le tomas la mano a las coordenadas, todo se simplifica, y eso me pasó. Al principio, en algunas ocasiones me equivocaba y ponía los números al revés, pero después de un rato aprendes el orden y sale todo fluidamente. Esta parte de p5.js, la verdad, fue relajante y para nada estresante; me gustó mucho.  
 ### Resultado  
 ![resultado](descarga.png)  
-### Link proyecto P5.js  
+### Link proyecto P5.js    
+[Proyecto P5.js](https://editor.p5js.org/francisca.ovalle/sketches/voDRwpA8h)  
 ### Imagen dibujo en físico  
-
-[Proyecto P5.js](https://editor.p5js.org/francisca.ovalle/sketches/voDRwpA8h)
+![resultado](Resultado.jpg)  
+### W.I.P (work in process)  
+![v1](v1.jpg) ![v2](v2.jpg)  
+![p5](p5.png) ![p6](p6.png) ![p7](p7.png)
 ### Codigo comentado  
 ![1](1.png.png)  
 ![2](2.png.png)
