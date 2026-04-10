@@ -34,3 +34,14 @@ Define tamaño del lienzo (createCanvas), cargas imágenes o sonidos y establece
 * stroke(): color del borde  
 colroes van en RGB  
 página HTML Color
+
+# SOLEMNE 1 #  
+
+### referente ###  
+Wassily Kandinsky. Pintor ruso que es conocido como uno de los precursores del arte abstracto y del expresionismo en la pintura.
+
+![Composición 8](https://cms.guggenheim-bilbao.eus/uploads/2012/05/2002-Kandinsky-en-su-contexto-1024x706.jpg)  
+Obra escogida para uso de referente, Composición 8, 1923.
+
+Dibujo de la composición en físico.  
+Hoja cuadriculada de 25 x 25cm (marcando cada 5mm y 1cm)  
