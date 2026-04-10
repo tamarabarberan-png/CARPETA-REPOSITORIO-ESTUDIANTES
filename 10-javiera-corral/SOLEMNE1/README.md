@@ -23,7 +23,8 @@ Svanen nr 17 ![imagen de la obra](https://artequinvina.cl/wp-content/uploads/202
 primera iteración del dibujo:![dibujo geométrico ](https://github.com/user-attachments/assets/9ee6a81a-9e5e-4f53-ba34-6ca2efc28a9c)   
 * esta primera version no fue la mejor ya que el formato estaba mut pequeño para escalar de manera correcta asi que lo cambie y mejore un poco.
 
-segunda iteracion del dibujo:  
+segunda iteracion del dibujo: ![segunda iteración del dibujo](https://github.com/user-attachments/assets/37b0643a-759d-474c-bf61-b2e73e493395)
+
 * esta version resulto ser mas satisfactoria y acorde a mi vision creativa de la obra, tambien tiene mejor definido los colores y formas añadiendo en esta el toque de caos que la version anterior carecia.
 
 DIBUJO FINAL 
