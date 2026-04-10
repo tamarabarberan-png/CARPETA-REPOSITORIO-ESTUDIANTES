@@ -337,3 +337,5 @@ Checkbox:
 • 90° / HALF_PI: A las 6 en punto (abajo).
 • 180° / PI: A las 9 en punto (izquierda).
 • 270° / (PI + HALF_PI): A las 12 en punto (arriba).
+
+
